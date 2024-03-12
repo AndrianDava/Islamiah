@@ -4,8 +4,8 @@ export default function Footer() {
       <footer className="p-3 text-center mb-20">
         <p>
           Dibuat dengan ❤ oleh{' '}
-          <a href="https://feriirawan.vercel.app" target="_blank">
-            Feri Irawan
+          <a>
+            Andrian Dava Maulana 
           </a>{' '}
           {/* untuk Sweet heartnya */}
         </p>
